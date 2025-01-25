@@ -27,5 +27,11 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+# 🐍 Snake Game
+
+![Snake Game Demo](snake-game-demo.gif)
+
+Play the Snake Game directly in your browser! 🎮  
+👉 [Click here to play the game!](https://your-username.github.io/snake-game/) 👈
 
 
