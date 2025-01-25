@@ -27,12 +27,9 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-# 🐍 Snake Game
-
-Use the arrow keys to play the snake game in your imagination!  
-Refresh the page to start again! 🎮
-
-<img src="https://raw.githubusercontent.com/alokuidev/alokuidev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+</div>
 
 ###
 
