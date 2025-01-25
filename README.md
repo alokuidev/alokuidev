@@ -1,10 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=alokuidev&color=red)
 
 <h3>When I code, I rely on</h3>
-<div align="left">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
-</div>
-###
+
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
