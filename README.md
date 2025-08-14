@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=alokuidev&color=red) ![Stars](https://img.shields.io/github/stars/alokuidev?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=alokuidev&color=red) ![Stars](https://img.shields.io/github/stars/alokuidev?style=for-the-badge&label=Stars)
 
 <h3>When I code, I rely on:</h3>
 <p>
