@@ -27,3 +27,4 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
+![YOLO Badge](https://img.shields.io/badge/YOLO-You%20Only%20Live%20Once-yellow)
