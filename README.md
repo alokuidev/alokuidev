@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=alokuidev&color=red) ![Stars](https://img.shields.io/github/stars/alokuidev?style=for-the-badge&label=Stars)
+![](https://komarev.com/ghpvc/?username=alokuidev&color=red)
 
 <h3>When I code, I rely on:</h3>
 <p>
@@ -26,4 +26,4 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
-
+![Stars](https://img.shields.io/github/stars/alokuidev?style=for-the-badge&label=Stars)
